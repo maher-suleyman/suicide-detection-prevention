@@ -4,7 +4,7 @@ Suicide Detection and Prevention Project<br/>
 This site provides a quick and simple platform for suicide prevention and mental health promotion.<hr/>
 
 # Preview:
-![alt text](preview.gif | width=100)<hr/>
+![alt text](preview.gif){:height="100px" width="200px"}<hr/>
 
 # Outline & Objective
 
