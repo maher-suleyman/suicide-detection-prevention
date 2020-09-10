@@ -15,13 +15,6 @@ The audience is the general public, but in particular, targeting:<br/>
 &emsp;&emsp; <b>●</b> People who has suicidal tendency<br/>
 &emsp;&emsp; <b>●</b> People who has mental health issues<br/>
 
-# Used Dependencies:
-
-yarn add firebase<br/>
-yarn add react-bootstrap bootstrap<br/>
-yarn add router<br/>
-yarn install<hr/>
-
 ## Used Technologies
 
 ReactJS, WordPress API, Firebase Auth, i18next...
