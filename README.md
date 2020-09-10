@@ -1,10 +1,15 @@
-# suicide-detection-prevention
-
-Suicide Detection and Prevention Project<br/>
-This site provides a quick and simple platform for suicide prevention and mental health promotion.<hr/>
+# Suicide Detection & Prevention
+This site is built using React to provide a quick and simple platform for suicide prevention and mental health promotion.<hr/>
 
 # Preview:
 <img src="preview.gif" alt="preview" width="100%"/><hr/>
+
+# Description:
+<ul>
+    <li>It uses Google Firebase as a database for users’ info.</li>
+    <li>It uses the WordPress API for blogs.</li>
+    <li>It depends on the i18next Framework to make the site multilingual and manage its translations.</li>
+</ul>
 
 # Outline & Objective
 
