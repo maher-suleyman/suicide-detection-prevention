@@ -5,6 +5,7 @@ This site provides a quick and simple platform for suicide prevention and mental
 
 # Preview:
 ![alt text](preview.gif){:height="50%" width="50%"}<hr/>
+<img src="preview.gif" width="1000px"/>
 
 # Outline & Objective
 
