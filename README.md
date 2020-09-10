@@ -3,6 +3,9 @@
 Suicide Detection and Prevention Project<br/>
 This site provides a quick and simple platform for suicide prevention and mental health promotion.<hr/>
 
+# Preview:
+![alt text](preview.gif)<hr/>
+
 # Outline & Objective
 
 The purpose of this site is to help users detect suicidal tendency and provide them with:<br/>
