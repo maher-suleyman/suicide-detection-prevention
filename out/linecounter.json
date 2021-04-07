@@ -1,0 +1,1029 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\maher\\Desktop\\Front-end projects\\suicide-detection-prevention",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2020-10-16 23:09:46",
+            "filesum": 154,
+            "codesum": 17348,
+            "commentsum": 124,
+            "blanksum": 2836,
+            "statistics": {
+                ".js": {
+                    "code": 199,
+                    "comment": 41,
+                    "blank": 26
+                },
+                ".css": {
+                    "code": 1381,
+                    "comment": 2,
+                    "blank": 173
+                },
+                ".jsx": {
+                    "code": 4854,
+                    "comment": 19,
+                    "blank": 301
+                },
+                ".snap": {
+                    "code": 316,
+                    "comment": 1,
+                    "blank": 1
+                },
+                "": {
+                    "code": 23,
+                    "comment": 3,
+                    "blank": 7
+                },
+                ".md": {
+                    "code": 18,
+                    "comment": 0,
+                    "blank": 9
+                },
+                ".txt": {
+                    "code": 3,
+                    "comment": 1,
+                    "blank": 0
+                },
+                ".json": {
+                    "code": 722,
+                    "comment": 0,
+                    "blank": 50
+                },
+                ".html": {
+                    "code": 27,
+                    "comment": 23,
+                    "blank": 1
+                },
+                ".yml": {
+                    "code": 34,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".lock": {
+                    "code": 9771,
+                    "comment": 34,
+                    "blank": 2268
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": ".circleci\\config.yml"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": ".eslintrc.yml"
+                },
+                {
+                    "blank": 6,
+                    "code": 18,
+                    "comment": 1,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": ".prettierignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".prettierrc.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 62,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 2,
+                    "filename": "public\\_redirects"
+                },
+                {
+                    "filename": "public\\favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 27,
+                    "comment": 23,
+                    "filename": "public\\index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "public\\locales\\ar\\translation.json"
+                },
+                {
+                    "blank": 26,
+                    "code": 344,
+                    "comment": 0,
+                    "filename": "public\\locales\\en\\translation.json"
+                },
+                {
+                    "blank": 22,
+                    "code": 283,
+                    "comment": 0,
+                    "filename": "public\\locales\\tr\\translation.json"
+                },
+                {
+                    "filename": "public\\logo192.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public\\logo512.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "public\\manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "public\\robots.txt"
+                },
+                {
+                    "blank": 9,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 44,
+                    "comment": 1,
+                    "filename": "src\\actions\\actionTypes.jsx"
+                },
+                {
+                    "blank": 14,
+                    "code": 300,
+                    "comment": 0,
+                    "filename": "src\\actions\\authActions.jsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 116,
+                    "comment": 0,
+                    "filename": "src\\actions\\blogActions.jsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "src\\components\\About.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "src\\components\\about\\About.jsx"
+                },
+                {
+                    "blank": 8,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "src\\components\\about\\index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "src\\components\\about\\sections\\AboutPageParags.jsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "src\\components\\about\\sections\\Header.jsx"
+                },
+                {
+                    "filename": "src\\components\\about\\sections\\images\\staff0.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\about\\sections\\images\\staff1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\about\\sections\\images\\staff2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 33,
+                    "comment": 1,
+                    "filename": "src\\components\\about\\sections\\PeopleDisplay.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "src\\components\\about\\sections\\PersonDisplay.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\components\\about\\sections\\WhoAreWe.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "src\\components\\blogs\\Blogs.jsx"
+                },
+                {
+                    "blank": 9,
+                    "code": 42,
+                    "comment": 0,
+                    "filename": "src\\components\\blogs\\index.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "src\\components\\blogs\\sections\\BlogDisplay.jsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "src\\components\\blogs\\sections\\BlogsDisplay.jsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "src\\components\\blogs\\sections\\Header.jsx"
+                },
+                {
+                    "filename": "src\\components\\blogs\\sections\\images\\blog0.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\blogs\\sections\\images\\blog1.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\blogs\\sections\\images\\blog2.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\blogs\\sections\\images\\blog3.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\blogs\\sections\\images\\Blogs-headers.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 101,
+                    "comment": 0,
+                    "filename": "src\\components\\common\\Footer.jsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 95,
+                    "comment": 1,
+                    "filename": "src\\components\\common\\Header.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 289,
+                    "comment": 0,
+                    "filename": "src\\components\\common\\index.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "src\\components\\common\\LangDropdown.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 77,
+                    "comment": 0,
+                    "filename": "src\\components\\common\\NavBar.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "src\\components\\common\\ProfileIcon.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "src\\components\\common\\roleConstants.jsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "src\\components\\contact\\Contact.jsx"
+                },
+                {
+                    "filename": "src\\components\\contact\\images\\contact-page.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\contact\\images\\contact-us-form.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\contact\\images\\contact-us-header.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 16,
+                    "code": 75,
+                    "comment": 0,
+                    "filename": "src\\components\\contact\\index.css"
+                },
+                {
+                    "blank": 9,
+                    "code": 123,
+                    "comment": 0,
+                    "filename": "src\\components\\contact\\sections\\ContactUs.jsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "src\\components\\contact\\sections\\Header.jsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "src\\components\\contact\\sections\\Info.jsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "src\\components\\home\\Home.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 180,
+                    "comment": 1,
+                    "filename": "src\\components\\home\\index.css"
+                },
+                {
+                    "filename": "src\\components\\home\\logos\\logo0.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\home\\logos\\logo1.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\home\\logos\\logo2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\home\\logos\\logo3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\home\\related-cards-logos\\Logo2.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\home\\related-cards-logos\\Logo3.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\home\\related-cards-logos\\Logo4.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 36,
+                    "comment": 0,
+                    "filename": "src\\components\\home\\sections\\Assessment.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "src\\components\\home\\sections\\Header.jsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 83,
+                    "comment": 0,
+                    "filename": "src\\components\\home\\sections\\RelatedCards.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "src\\components\\home\\sections\\Stories.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "src\\components\\home\\sections\\Survivor.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "src\\components\\home\\sections\\WeCare.jsx"
+                },
+                {
+                    "filename": "src\\components\\images\\lang.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\images\\Language-icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\components\\images\\language.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "src\\components\\langDropdown.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "src\\components\\LangDropdown.jsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "src\\components\\noMatch\\NoMatch.jsx"
+                },
+                {
+                    "blank": 16,
+                    "code": 90,
+                    "comment": 1,
+                    "filename": "src\\components\\signInUp\\index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": "src\\components\\signInUp\\sections\\SignIn.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "src\\components\\signInUp\\sections\\SignUp.jsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "src\\components\\signInUp\\SignInUp.jsx"
+                },
+                {
+                    "blank": 39,
+                    "code": 188,
+                    "comment": 0,
+                    "filename": "src\\components\\singleBlogPage\\index.css"
+                },
+                {
+                    "blank": 3,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "src\\components\\singleBlogPage\\sections\\BlogContent.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "src\\components\\singleBlogPage\\sections\\BlogHeader.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "src\\components\\singleBlogPage\\sections\\BlogInfo.jsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 117,
+                    "comment": 0,
+                    "filename": "src\\components\\singleBlogPage\\sections\\Comments.jsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\components\\singleBlogPage\\sections\\Header.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "src\\components\\singleBlogPage\\sections\\Recommended.jsx"
+                },
+                {
+                    "blank": 6,
+                    "code": 57,
+                    "comment": 0,
+                    "filename": "src\\components\\singleBlogPage\\SingleBlogPage.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "src\\containers\\AddComment.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "src\\containers\\App.jsx"
+                },
+                {
+                    "blank": 9,
+                    "code": 165,
+                    "comment": 2,
+                    "filename": "src\\containers\\auth\\EmailPasswordSignIn.jsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 122,
+                    "comment": 2,
+                    "filename": "src\\containers\\auth\\EmailPasswordSignUp.jsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 43,
+                    "comment": 1,
+                    "filename": "src\\containers\\auth\\FacebookAuth.jsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 43,
+                    "comment": 1,
+                    "filename": "src\\containers\\auth\\GoogleAuth.jsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "src\\containers\\auth\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 40,
+                    "comment": 0,
+                    "filename": "src\\containers\\auth\\LoggingMenu.jsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "src\\containers\\auth\\SignedInLinks.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "src\\containers\\auth\\SignedOutLinks.jsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "src\\containers\\BlogEditor\\BlogEditor.css"
+                },
+                {
+                    "blank": 16,
+                    "code": 160,
+                    "comment": 0,
+                    "filename": "src\\containers\\BlogEditor\\BlogEditor.jsx"
+                },
+                {
+                    "blank": 24,
+                    "code": 226,
+                    "comment": 0,
+                    "filename": "src\\containers\\donation\\Donation.jsx"
+                },
+                {
+                    "blank": 49,
+                    "code": 259,
+                    "comment": 0,
+                    "filename": "src\\containers\\donation\\index.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "src\\containers\\donation\\sections\\Header.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "src\\containers\\index.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 316,
+                    "comment": 1,
+                    "filename": "src\\containers\\liveChat\\__snapshots__\\LiveChat.test.jsx.snap"
+                },
+                {
+                    "blank": 4,
+                    "code": 70,
+                    "comment": 0,
+                    "filename": "src\\containers\\liveChat\\LiveChat.jsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "src\\containers\\liveChat\\LiveChat.test.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "src\\containers\\PasswordRecovery.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "src\\containers\\profile\\AccountSettings.css"
+                },
+                {
+                    "blank": 4,
+                    "code": 36,
+                    "comment": 0,
+                    "filename": "src\\containers\\profile\\AccountSettings.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "src\\containers\\profile\\AccountSettingsSections.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src\\containers\\profile\\BlogBox.css"
+                },
+                {
+                    "blank": 8,
+                    "code": 118,
+                    "comment": 1,
+                    "filename": "src\\containers\\profile\\BlogBox.jsx"
+                },
+                {
+                    "blank": 8,
+                    "code": 94,
+                    "comment": 0,
+                    "filename": "src\\containers\\profile\\DeleteAccount.jsx"
+                },
+                {
+                    "blank": 10,
+                    "code": 204,
+                    "comment": 1,
+                    "filename": "src\\containers\\profile\\EditProfileInfo.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "src\\containers\\profile\\ManageBlogs.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 108,
+                    "comment": 0,
+                    "filename": "src\\containers\\profile\\ManageBlogs.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "src\\containers\\profile\\ManageUsers.css"
+                },
+                {
+                    "blank": 5,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "src\\containers\\profile\\ManageUsers.jsx"
+                },
+                {
+                    "blank": 4,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "src\\containers\\profile\\Profile.css"
+                },
+                {
+                    "blank": 11,
+                    "code": 152,
+                    "comment": 3,
+                    "filename": "src\\containers\\profile\\Profile.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src\\containers\\profile\\ProfileBox.css"
+                },
+                {
+                    "blank": 6,
+                    "code": 127,
+                    "comment": 0,
+                    "filename": "src\\containers\\profile\\ProfileBox.jsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "src\\containers\\profile\\ProfileInfo.css"
+                },
+                {
+                    "blank": 7,
+                    "code": 95,
+                    "comment": 1,
+                    "filename": "src\\containers\\profile\\ProfileInfo.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\containers\\profile\\ProfileInfoSections.css"
+                },
+                {
+                    "blank": 5,
+                    "code": 95,
+                    "comment": 1,
+                    "filename": "src\\containers\\profile\\ShowProfileInfo.jsx"
+                },
+                {
+                    "blank": 12,
+                    "code": 175,
+                    "comment": 0,
+                    "filename": "src\\containers\\profile\\UpdateEmail.jsx"
+                },
+                {
+                    "blank": 14,
+                    "code": 242,
+                    "comment": 0,
+                    "filename": "src\\containers\\profile\\UpdatePassword.jsx"
+                },
+                {
+                    "blank": 14,
+                    "code": 65,
+                    "comment": 0,
+                    "filename": "src\\containers\\PsychoAssess\\index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "src\\containers\\PsychoAssess\\PsychoAssess.jsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 2,
+                    "filename": "src\\containers\\PsychoAssess\\PsychoAssess.test.jsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "src\\containers\\PsychoAssess\\sections\\Header.jsx"
+                },
+                {
+                    "blank": 8,
+                    "code": 182,
+                    "comment": 0,
+                    "filename": "src\\containers\\PsychoAssess\\sections\\Questions.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "src\\containers\\SignIn.jsx"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "src\\containers\\SignUp.jsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 16,
+                    "comment": 1,
+                    "filename": "src\\firebaseConfig.jsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 18,
+                    "comment": 1,
+                    "filename": "src\\i18n.js"
+                },
+                {
+                    "filename": "src\\images\\anonymousImage.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\images\\editButton.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\images\\facebookIcon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\images\\googleIcon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\images\\infoSign.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\images\\profileHeaderBackground.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "src\\images\\profilePhotoButton.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\index.css"
+                },
+                {
+                    "blank": 6,
+                    "code": 85,
+                    "comment": 5,
+                    "filename": "src\\index.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 198,
+                    "comment": 0,
+                    "filename": "src\\reducers\\authReducer.jsx"
+                },
+                {
+                    "blank": 3,
+                    "code": 97,
+                    "comment": 0,
+                    "filename": "src\\reducers\\blogReducer.jsx"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src\\reducers\\rootReducer.jsx"
+                },
+                {
+                    "blank": 15,
+                    "code": 95,
+                    "comment": 31,
+                    "filename": "src\\serviceWorker.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "src\\setupTests.js"
+                },
+                {
+                    "blank": 2268,
+                    "code": 9771,
+                    "comment": 34,
+                    "filename": "yarn.lock"
+                }
+            ]
+        }
+    ]
+}
