@@ -1,7 +1,15 @@
-# istanbul-capstone-sdp
+# Suicide Detection & Prevention
+This site is built using React to provide a quick and simple platform for suicide prevention and mental health promotion.<hr/>
 
-Suicide Detection and Prevention Project<br/>
-This site provides a quick and simple platform for suicide prevention and mental health promotion.<hr/>
+# Preview:
+<img src="preview.gif" alt="preview" width="100%"/><hr/>
+
+# Description:
+<ul>
+    <li>It uses Google Firebase as a database for users’ info.</li>
+    <li>It uses the WordPress API for blogs.</li>
+    <li>It depends on the i18next Framework to make the site multilingual and manage its translations.</li>
+</ul>
 
 # Outline & Objective
 
@@ -14,13 +22,6 @@ The purpose of this site is to help users detect suicidal tendency and provide t
 The audience is the general public, but in particular, targeting:<br/>
 &emsp;&emsp; <b>●</b> People who has suicidal tendency<br/>
 &emsp;&emsp; <b>●</b> People who has mental health issues<br/>
-
-# Used Dependencies:
-
-yarn add firebase<br/>
-yarn add react-bootstrap bootstrap<br/>
-yarn add router<br/>
-yarn install<hr/>
 
 ## Used Technologies
 
